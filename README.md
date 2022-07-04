@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AngeloRules
+- 👋 Hi, I’m Wole
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning AI/ML with Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me Twitter-@Angelorul3s
 
 <!---
